@@ -11,7 +11,7 @@ global.antitags = true;
 //auto functioner
 global.autoTyping = false;                //auto tying by default off.
 global.autoRecord = true;                //auto recording by default off.
-global.groupevent = false;                //This is the new variable for controlling group event handling.
+global.groupevent = true;                //This is the new variable for controlling group event handling.
 global.statusseen = false;                 //This is the new variable for controlling status seen.
 global.autoreadgc = false;
 
@@ -21,13 +21,13 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94772108460", "+94772108460"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94772108460", "+94772108460"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94772108460"];
-global.OwnerName = "KUSHAN";
-global.BotName = "DARK SHAM";
-global.packname = "🦋 DARK SHAN 🦋";                             //Do not change.
-global.author = "KUSHAN";                               //Do not change.
+global.Owner = ["+94741850340", "+94741850340"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+94741850340", "+94741850340"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+94741850340"];
+global.OwnerName = "💗⃝⃙̶̽🍃🕊️:|𝐌𝐑⃪״⦂𝐂⃕𝐇𝐀͜𝐌͢𝐀⃪⃔𝐋𝐊𝐀❯|:💗⃝⃙̶̽🍃🕊️";
+global.BotName = "𝗖𝗛𝗔𝗠𝗔𝗟𝗞𝗔 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟";
+global.packname = "🦋 MR CHAMA OFC 🦋";                             //Do not change.
+global.author = "MR CHAMA";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
 
@@ -41,12 +41,12 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "mathara, Sri Lankan";
+global.location = "kurunegala, Sri Lankan";
 global.reactmoji = "💞";
 global.themeemoji = "😂";
 global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
 global.websitex = "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4";
-global.lolhuman = "kushan";
+global.lolhuman = "MR CHAMA";
 
 
 //
